@@ -11,6 +11,9 @@ gem 'bcrypt', '~> 3.1.7'
 # gem 'password_strength', '~> 1.1', '>= 1.1.4'
 # gem 'password_validation', '~> 0.0.1'
 
+gem 'sass-rails' # For Sass support
+gem 'uglifier'   # For JavaScript compression
+
 
 gem "jwt", "~> 2.5"
 # Use postgresql as the database for Active Record
